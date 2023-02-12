@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MEldeeeb
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data & Machine learning
+- 📫 Linkedin: https://www.linkedin.com/in/mohamed-eldeeb-9706261b6/
 
 <!---
 MEldeeeb/MEldeeeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
